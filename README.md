@@ -6,7 +6,7 @@
 
 RecyclerView可以实现横向、纵向滑动视图：
 
-![mahua](https://raw.githubusercontent.com/3332523marco/androidl/master/recyclerview1.png)                  
+![Screenshot](https://raw.githubusercontent.com/3332523marco/androidl/master/recyclerview1.png)                  
 RecyclerView 1   
 
 ![mahua](https://raw.githubusercontent.com/3332523marco/androidl/master/recyclerview2.png)  
