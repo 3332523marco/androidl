@@ -38,9 +38,11 @@ RecyclerView 2
   CardView继承自FrameLayout类，可以在一个卡片布局中一致性的显示内容，卡片可以包含圆角和阴影。CardView是一个Layout，可以布局其他View。CardView 的使用可以参考《Material Design UI Widgets》。文章最后会给出这篇文章示例代码。
   
 ![mahua](https://raw.githubusercontent.com/3332523marco/androidl/master/cardview.png)
+
 cardview
 
 ![mahua](https://raw.githubusercontent.com/3332523marco/androidl/master/palette.png)           
+
 palette                                             
 
 ### Palette
